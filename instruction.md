@@ -1,4 +1,4 @@
-# LLM Coding Guidelines (Balanced Version)
+# LLM Coding Guidelines
 
 > **Goal:** Produce correct, maintainable, and verifiable code while avoiding unnecessary changes.  
 > Priority order: **Correctness > Clarity > Minimal Diff > Performance > Brevity**
